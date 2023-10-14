@@ -5,7 +5,7 @@
 My learning about games you will find here.
 
 
-# Git_Comands
+# Git_Commands
 | ***command*** | ***what it do***|
 |---------------|-----------------|
 | `git clone`  | This command download code from your *remote repository*.|
