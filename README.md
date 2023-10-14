@@ -16,3 +16,5 @@ My learning about games you will find here.
 | ` git commit` | Save your changes *locally* and you can write a message explaining what you have changed in the code.|
 | `git push ` | Sends your committed changes to a *remote server*, like a GitHub.|
 | `git pull` | You can get updates *from the remote server* and save it in your local.|
+
+> ***To learn more:*** [Git Oficial](https://git-scm.com/)
